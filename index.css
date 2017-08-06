@@ -1,0 +1,35 @@
+#board{
+    width: 600px;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.11);
+}
+.input{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: 1.4em;
+    height: 1.8em;
+    border:1px solid #c8cccf;
+    color:#6a6f77;
+}
+.id{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: 0.9em;
+    height: 1.2em;
+    border:1px solid #c8cccf;
+    color:#6a6f77;
+}
+.welcome{
+    color: maroon;
+    font-size: 0.5em;
+    width: 12em;
+    margin: auto;
+}
+.person{
+    font-size: 1em;
+    font-style: italic;
+}
+.message{
+    font-weight: 900;
+    font-size: 1.5em;
+}
